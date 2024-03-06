@@ -4,4 +4,9 @@ class Calculator
 	{
 		
 	}
+	
+	static inr penambahan (int a, int b)
+	{
+		return a + b;
+	}
 }
